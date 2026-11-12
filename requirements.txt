@@ -1,0 +1,8 @@
+langchain
+openai
+sentence-transformers
+faiss-cpu
+chromadb
+pandas
+PyPDF2
+numpy
